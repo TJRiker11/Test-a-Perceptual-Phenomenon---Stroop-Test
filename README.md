@@ -3,6 +3,7 @@
 
 
 # Questions For Investigation
+
 As a general note, be sure to keep a record of any resources that you use or refer to in the creation of your project. You will need to report your sources as part of the project submission.
 
 1. What is our independent variable? What is our dependent variable?
