@@ -7,6 +7,7 @@
 As a general note, be sure to keep a record of any resources that you use or refer to in the creation of your project. You will need to report your sources as part of the project submission.
 
 1. What is our independent variable? What is our dependent variable?
+2. 
 
 2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.
 
